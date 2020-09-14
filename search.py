@@ -58,14 +58,6 @@ def binary_search_iterative(array, item):
         return None
 
 
-            
-                
-    
-
-
-
-
-
 def binary_search_recursive(array, item, left=None, right=None):
     left = 0
     right = len(array) - 1
